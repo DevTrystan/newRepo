@@ -1,6 +1,13 @@
 h1{
     color: green;
 }
+<<<<<<< HEAD
 body{
     background-color: blue;
+=======
+
+body {
+    background-color: azure;
+    text-align: center;
+>>>>>>> 2eafaf626921829d246484763615597fb41c31ed
 }
